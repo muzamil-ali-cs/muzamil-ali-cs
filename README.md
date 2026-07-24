@@ -1,35 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00FF41&height=250&section=header&text=MUZAMIL%20ALI&fontSize=55&fontColor=00FF41&fontAlignY=35&animation=fadeIn&desc=%3E%20Full%20Stack%20Developer%20_%20Aspiring%20Cybersecurity%20Professional&descAlignY=55&descSize=16&descColor=00FF41" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:2F80ED&height=250&section=header&text=Muzamil%20Ali&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Aspiring%20Cybersecurity%20Professional&descAlignY=55&descSize=18" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=750&lines=root%40muzamil%3A~%23+whoami;%3E+Securing+Systems%2C+One+Line+at+a+Time+%F0%9F%94%90;%3E+Building+Full+Stack+Web+Apps+%F0%9F%92%BB;%3E+CS+Student+%40+Sukkur+IBA+University;%3E+Python+%7C+Django+%7C+React+%7C+SQL;%3E+Java+%7C+C%2B%2B+%7C+Networking;%3E+Pursuing+Google+Cybersecurity+Certificate;%3E+Open+to+Internships+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
-
-<p align="center"><img src="https://raw.githubusercontent.com/mishakorzik/mishakorzik/main/hacking.gif" width="450"></p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=750&lines=Securing+Systems%2C+One+Line+at+a+Time+%F0%9F%94%90;Building+Full+Stack+Web+Apps+%F0%9F%92%BB;CS+Student+%40+Sukkur+IBA+University+%F0%9F%8E%93;Python+%7C+Django+%7C+React+%7C+SQL;Java+%7C+C%2B%2B+%7C+Networking;Pursuing+Google+Cybersecurity+Certificate;Open+to+Internships+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20INTERNSHIPS-00FF41?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-00FF41?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/BUILDING-FULL%20STACK%20APPS-00FF41?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/LEARNING-GOOGLE%20CYBERSECURITY%20CERT-00FF41?style=for-the-badge&labelColor=000000" />
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="130">&nbsp;&nbsp;<img src="https://media.giphy.com/media/hpJKycMQVQFek/giphy.gif" width="130">&nbsp;&nbsp;<img src="https://media.giphy.com/media/26u4b45b8KlgAB7iE/giphy.gif" width="130">
+</p>
 
-<br/><br/>
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=muzamil-ali-cs&label=PROFILE+VIEWS&color=00FF41&style=for-the-badge)
+<img src="https://img.shields.io/badge/Status-Open%20to%20Internships-2ea44f?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-Cybersecurity-00FF41?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/Building-Full%20Stack%20Apps-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Learning-Google%20Cybersecurity%20Cert-blue?style=for-the-badge" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=muzamil-ali-cs&label=Profile%20Views&color=2F80ED&style=for-the-badge)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:003300&height=3&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,20,25&height=3&width=100%" />
 
-## `> whoami`
+## 🧑‍💻 About Me
 
 <p align="center"><img align="right" width="220" src="https://media.giphy.com/media/SUtBK1QzXPvY0/giphy.gif"></p>
-
-```bash
-$ cat about_me.txt
-```
 
 > I break systems to understand them, and build systems to secure them 🔓🔒
 >
@@ -41,64 +39,73 @@ $ cat about_me.txt
 - 📜 Pursuing the **Google Cybersecurity Professional Certificate**
 - 💻 Strengthening foundations in **Java, C++, DSA**
 - 🔗 Learning **Networking** & security fundamentals
+- 🌱 Exploring hands-on platforms & real-world security practices
 - 💼 **Open to internship & part-time opportunities**
 - 📫 **muzamilsayss@gmail.com**
 
 <br clear="right"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:003300&height=3&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,20,25&height=3&width=100%" />
 
-## `> ls tech_stack/`
+## 🛠️ Tech Stack
 
 <div align="center">
 
-**// full_stack_development**
+### 🌐 Full Stack Development
 
 <img src="https://skillicons.dev/icons?i=python,html,css,js,react,django,sql,mysql,postgres,git,github,vscode&theme=dark&perline=6" />
 
 <br/><br/>
 
-**// cybersecurity_and_systems**
+### 🔐 Cybersecurity & Systems
 
 <img src="https://skillicons.dev/icons?i=java,cpp,linux,ubuntu,bash&theme=dark&perline=8" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/NETWORKING-00FF41?style=for-the-badge&labelColor=000000&logo=cisco&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/CYBERSECURITY-00FF41?style=for-the-badge&labelColor=000000&logo=protonvpn&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/DSA-00FF41?style=for-the-badge&labelColor=000000&logo=leetcode&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/REST%20APIS-00FF41?style=for-the-badge&labelColor=000000&logo=fastapi&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Networking-4285F4?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=protonvpn&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+<br/><br/>
+
+<p align="center"><img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="400"></p>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:003300&height=3&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,20,25&height=3&width=100%" />
 
-## `> exec stats.sh`
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=muzamil-ali-cs&show_icons=true&hide_border=true&count_private=true&rank_icon=github&bg_color=000000&title_color=00FF41&text_color=00FF41&icon_color=00FF41&border_color=00FF41" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muzamil-ali-cs&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=00CC33&border=00FF41" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muzamil-ali-cs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzamil-ali-cs&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzamil-ali-cs&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41&border_color=00FF41" width="55%" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:003300&height=3&width=100%" />
-
-## `> tail -f contributions.log`
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muzamil-ali-cs&hide_border=true&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41" width="90%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzamil-ali-cs&layout=compact&theme=tokyonight&hide_border=true" width="55%" />
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/muzamil-ali-cs/muzamil-ali-cs/output/github-contribution-grid-snake-dark.svg" width="90%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=muzamil-ali-cs&theme=tokyonight&no-frame=true&row=1&column=7" width="90%"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:003300&height=3&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,20,25&height=3&width=100%" />
 
-## `> cat currently_learning.yaml`
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muzamil-ali-cs&theme=tokyo-night&hide_border=true" width="90%"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/muzamil-ali-cs/muzamil-ali-cs/output/github-contribution-grid-snake-dark.svg" width="90%" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,20,25&height=3&width=100%" />
+
+## 🎯 Currently Learning
 
 ```yaml
 certificate: "Google Cybersecurity Professional Certificate"
@@ -108,23 +115,25 @@ topics:      ["Data Structures & Algorithms", "Networking Fundamentals"]
 goal:        "Build secure full stack applications & break into Cybersecurity"
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:003300&height=3&width=100%" />
+<p align="center"><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="220"></p>
 
-## `> connect --secure`
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,20,25&height=3&width=100%" />
+
+## 🔗 Connect with Me
 
 <div align="center">
 
 <a href="mailto:muzamilsayss@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-00FF41?style=for-the-badge&labelColor=000000&logo=gmail&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/muzamil-ishaque">
-  <img src="https://img.shields.io/badge/LINKEDIN-00FF41?style=for-the-badge&labelColor=000000&logo=linkedin&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<i style="color:#00FF41">"Learning how systems break, so I can learn how to build and defend them."</i>
+<i>"Learning how systems break, so I can learn how to build and defend them."</i>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003300,100:000000&height=180&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,50:2c5364,100:0f2027&height=180&section=footer&animation=fadeIn" />
